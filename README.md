@@ -93,3 +93,15 @@ This repository helps me:
 If you find this repository helpful, feel free to ⭐ star it.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
