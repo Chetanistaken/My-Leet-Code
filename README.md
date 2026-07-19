@@ -101,6 +101,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0009-palindrome-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -147,4 +149,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0005-longest-palindromic-substring) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
