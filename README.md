@@ -129,6 +129,7 @@ Happy Coding! 🚀
 | [0005-longest-palindromic-substring](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0008-string-to-integer-atoi) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,4 +154,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
