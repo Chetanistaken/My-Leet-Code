@@ -118,6 +118,7 @@ Happy Coding! 🚀
 | [0007-reverse-integer](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0009-palindrome-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
 | ------- |
