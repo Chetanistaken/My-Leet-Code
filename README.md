@@ -139,6 +139,7 @@ Happy Coding! 🚀
 | [0008-string-to-integer-atoi](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0010-regular-expression-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,4 +204,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
