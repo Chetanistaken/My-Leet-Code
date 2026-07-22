@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0013-roman-to-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
@@ -122,6 +123,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0013-roman-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -140,6 +142,7 @@ Happy Coding! 🚀
 | [0006-zigzag-conversion](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0013-roman-to-integer) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
