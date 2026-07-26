@@ -46,10 +46,10 @@ Currently solving in:
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 0 |
-| Medium | 0 |
-| Hard | 0 |
-| **Total** | **0** |
+| Easy | 8 |
+| Medium | 17 |
+| Hard | 4 |
+| **Total** | **29** |
 
 > Update this table as you solve more problems.
 
