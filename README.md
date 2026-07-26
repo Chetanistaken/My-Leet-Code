@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0018-4sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -177,6 +178,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0018-4sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -208,6 +210,7 @@ Happy Coding! 🚀
 | ------- |
 | [0015-3sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0018-4sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
