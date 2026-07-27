@@ -127,6 +127,7 @@ Happy Coding! 🚀
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Happy Coding! 🚀
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
