@@ -107,6 +107,7 @@ Happy Coding! 🚀
 | [0016-3sum-closest](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -218,6 +219,7 @@ Happy Coding! 🚀
 | [0016-3sum-closest](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -256,4 +258,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
