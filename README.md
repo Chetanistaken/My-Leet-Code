@@ -142,6 +142,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0029-divide-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -282,6 +283,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0029-divide-two-integers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
 |  |
