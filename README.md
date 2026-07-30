@@ -107,6 +107,7 @@ Happy Coding! 🚀
 | [0016-3sum-closest](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -201,6 +202,7 @@ Happy Coding! 🚀
 | [0018-4sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0027-remove-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
