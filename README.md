@@ -178,6 +178,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -220,6 +221,7 @@ Happy Coding! 🚀
 | [0005-longest-palindromic-substring](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0032-longest-valid-parentheses) |
 ## Number Theory
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
