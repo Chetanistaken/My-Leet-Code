@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -199,6 +200,7 @@ Happy Coding! 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
