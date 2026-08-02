@@ -113,6 +113,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0037-sudoku-solver) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -132,6 +133,7 @@ Happy Coding! 🚀
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0037-sudoku-solver) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -308,6 +310,7 @@ Happy Coding! 🚀
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0037-sudoku-solver) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -335,4 +338,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
