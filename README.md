@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [0037-sudoku-solver](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0041-first-missing-positive) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -137,6 +138,7 @@ Happy Coding! 🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0041-first-missing-positive) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
