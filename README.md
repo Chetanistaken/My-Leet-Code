@@ -117,6 +117,7 @@ Happy Coding! 🚀
 | [0039-combination-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -238,6 +239,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -246,6 +248,7 @@ Happy Coding! 🚀
 | [0010-regular-expression-matching](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1406-stone-game-iii) |
@@ -261,6 +264,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -272,6 +276,7 @@ Happy Coding! 🚀
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
