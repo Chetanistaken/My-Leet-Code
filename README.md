@@ -163,6 +163,7 @@ Happy Coding! 🚀
 | [0012-integer-to-roman](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0043-multiply-strings) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -201,6 +202,7 @@ Happy Coding! 🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0043-multiply-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -292,6 +294,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0043-multiply-strings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
