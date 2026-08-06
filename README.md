@@ -119,6 +119,7 @@ Happy Coding! 🚀
 | [0041-first-missing-positive](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0046-permutations) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -341,6 +342,7 @@ Happy Coding! 🚀
 | [0037-sudoku-solver](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0046-permutations) |
 ## Bit Manipulation
 |  |
 | ------- |
