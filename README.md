@@ -118,6 +118,7 @@ Happy Coding! 🚀
 | [0040-combination-sum-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -255,6 +256,7 @@ Happy Coding! 🚀
 | [0032-longest-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1406-stone-game-iii) |
@@ -277,6 +279,7 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0045-jump-game-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
