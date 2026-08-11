@@ -363,6 +363,7 @@ Happy Coding! 🚀
 | [0046-permutations](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0052-n-queens-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -405,4 +406,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
