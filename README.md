@@ -51,7 +51,6 @@ Currently solving in:
 | Hard | 16 |
 | **Total** | **77** |
 
-> Update this table as you solve more problems.
 
 ---
 
