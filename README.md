@@ -128,6 +128,7 @@ Happy Coding! 🚀
 | [0055-jump-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -338,6 +339,7 @@ Happy Coding! 🚀
 | ------- |
 | [0043-multiply-strings](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -412,6 +414,7 @@ Happy Coding! 🚀
 | [0037-sudoku-solver](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0059-spiral-matrix-ii) |
 ## Minimax
 |  |
 | ------- |
