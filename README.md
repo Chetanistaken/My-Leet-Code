@@ -185,6 +185,7 @@ Happy Coding! 🚀
 | [0043-multiply-strings](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -290,6 +291,7 @@ Happy Coding! 🚀
 | [0045-jump-game-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1406-stone-game-iii) |
@@ -349,6 +351,7 @@ Happy Coding! 🚀
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
