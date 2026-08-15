@@ -233,6 +233,7 @@ Happy Coding! 🚀
 | [0044-wildcard-matching](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0065-valid-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
