@@ -141,6 +141,7 @@ Happy Coding! 🚀
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -396,6 +397,7 @@ Happy Coding! 🚀
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0029-divide-two-integers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
