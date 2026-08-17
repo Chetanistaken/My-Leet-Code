@@ -130,6 +130,7 @@ Happy Coding! 🚀
 | [0057-insert-interval](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -189,6 +190,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
