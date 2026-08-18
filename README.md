@@ -196,6 +196,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -308,6 +309,7 @@ Happy Coding! 🚀
 | [0055-jump-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1406-stone-game-iii) |
@@ -471,4 +473,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
