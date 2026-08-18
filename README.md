@@ -195,6 +195,7 @@ Happy Coding! 🚀
 | [0062-unique-paths](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -267,6 +268,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0069-sqrtx) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
@@ -465,4 +467,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
