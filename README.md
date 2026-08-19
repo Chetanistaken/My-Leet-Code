@@ -248,6 +248,7 @@ Happy Coding! 🚀
 | [0065-valid-number](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0071-simplify-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -330,6 +331,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0071-simplify-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
