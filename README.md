@@ -132,6 +132,7 @@ Happy Coding! 🚀
 | [0063-unique-paths-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -163,6 +164,7 @@ Happy Coding! 🚀
 | [0037-sudoku-solver](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [1386-cinema-seat-allocation](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -454,6 +456,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0073-set-matrix-zeroes) |
 ## Minimax
 |  |
 | ------- |
