@@ -145,6 +145,7 @@ Happy Coding! 🚀
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -379,6 +380,7 @@ Happy Coding! 🚀
 | [0059-spiral-matrix-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0068-text-justification) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
