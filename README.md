@@ -251,6 +251,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0072-edit-distance) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -315,6 +316,7 @@ Happy Coding! 🚀
 | [0062-unique-paths](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0072-edit-distance) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1406-stone-game-iii) |
