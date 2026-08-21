@@ -134,6 +134,7 @@ Happy Coding! 🚀
 | [0068-text-justification](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -305,6 +306,7 @@ Happy Coding! 🚀
 | [0031-next-permutation](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0075-sort-colors) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -370,6 +372,7 @@ Happy Coding! 🚀
 | [0047-permutations-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -487,6 +490,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0075-sort-colors) |
 ## Ordered Set
 |  |
 | ------- |
@@ -499,4 +503,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0070-climbing-stairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
