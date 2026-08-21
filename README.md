@@ -169,6 +169,7 @@ Happy Coding! 🚀
 | [0041-first-missing-positive](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0076-minimum-window-substring) |
 | [1386-cinema-seat-allocation](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -257,6 +258,7 @@ Happy Coding! 🚀
 | [0068-text-justification](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0076-minimum-window-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -271,6 +273,7 @@ Happy Coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0076-minimum-window-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
