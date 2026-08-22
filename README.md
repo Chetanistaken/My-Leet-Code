@@ -135,6 +135,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -438,11 +439,13 @@ Happy Coding! 🚀
 | [0051-n-queens](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
