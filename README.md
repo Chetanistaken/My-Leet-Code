@@ -212,6 +212,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -262,6 +263,7 @@ Happy Coding! 🚀
 | [0072-edit-distance](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0076-minimum-window-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -360,6 +362,7 @@ Happy Coding! 🚀
 | [0055-jump-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -470,6 +473,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1927-sum-game) |
 ## Matrix
 |  |
 | ------- |
