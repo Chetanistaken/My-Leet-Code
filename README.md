@@ -136,6 +136,7 @@ Happy Coding! 🚀
 | [0074-search-a-2d-matrix](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0079-word-search) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -262,6 +263,7 @@ Happy Coding! 🚀
 | [0071-simplify-path](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0079-word-search) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -443,6 +445,7 @@ Happy Coding! 🚀
 | [0052-n-queens-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -485,6 +488,7 @@ Happy Coding! 🚀
 | [0063-unique-paths-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0079-word-search) |
 ## Minimax
 |  |
 | ------- |
@@ -519,4 +523,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
