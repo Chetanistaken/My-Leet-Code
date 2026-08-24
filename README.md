@@ -194,6 +194,7 @@ Happy Coding! 🚀
 | [0024-swap-nodes-in-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Math
 |  |
 | ------- |
@@ -322,6 +323,7 @@ Happy Coding! 🚀
 | [0061-rotate-list](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
