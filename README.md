@@ -140,6 +140,7 @@ Happy Coding! 🚀
 | [0079-word-search](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -366,6 +367,7 @@ Happy Coding! 🚀
 | [0032-longest-valid-parentheses](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -384,6 +386,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
@@ -544,4 +547,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0079-word-search) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
