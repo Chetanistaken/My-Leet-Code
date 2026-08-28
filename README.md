@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [0084-largest-rectangle-in-histogram](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0090-subsets-ii) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -487,6 +488,7 @@ Happy Coding! 🚀
 | [0078-subsets](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -494,6 +496,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
