@@ -282,6 +282,7 @@ Happy Coding! 🚀
 | [0076-minimum-window-substring](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0091-decode-ways) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -365,6 +366,7 @@ Happy Coding! 🚀
 | [0072-edit-distance](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0091-decode-ways) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1406-stone-game-iii) |
