@@ -601,6 +601,7 @@ Happy Coding! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0100-same-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -617,6 +618,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -625,6 +627,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -632,4 +635,8 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0099-recover-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
