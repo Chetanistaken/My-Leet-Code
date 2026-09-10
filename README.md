@@ -627,6 +627,7 @@ Happy Coding! 🚀
 | [0110-balanced-binary-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -656,6 +657,7 @@ Happy Coding! 🚀
 | [0110-balanced-binary-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -677,6 +679,7 @@ Happy Coding! 🚀
 | [0110-balanced-binary-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
