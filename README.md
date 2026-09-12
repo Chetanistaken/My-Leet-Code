@@ -147,6 +147,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
@@ -405,6 +406,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0940-distinct-subsequences-ii) |
