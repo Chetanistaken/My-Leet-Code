@@ -151,6 +151,7 @@ Happy Coding! 🚀
 | [0119-pascals-triangle-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1406-stone-game-iii) |
@@ -595,6 +596,7 @@ Happy Coding! 🚀
 | [0074-search-a-2d-matrix](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0835-image-overlap) |
 ## Minimax
 |  |
 | ------- |
