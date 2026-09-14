@@ -250,6 +250,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1563-stone-game-v) |
@@ -735,4 +736,8 @@ Happy Coding! 🚀
 | [0112-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
