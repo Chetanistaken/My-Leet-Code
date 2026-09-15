@@ -150,6 +150,7 @@ Happy Coding! 🚀
 | [0118-pascals-triangle](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0835-image-overlap) |
@@ -413,6 +414,7 @@ Happy Coding! 🚀
 | [0118-pascals-triangle](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0940-distinct-subsequences-ii) |
