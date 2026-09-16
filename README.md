@@ -422,6 +422,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0940-distinct-subsequences-ii) |
@@ -668,6 +669,7 @@ Happy Coding! 🚀
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Range Minimum/Maximum Query
 |  |
@@ -702,6 +704,7 @@ Happy Coding! 🚀
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -728,6 +731,7 @@ Happy Coding! 🚀
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -755,4 +759,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0836-rectangle-overlap) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
