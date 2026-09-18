@@ -153,6 +153,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0835-image-overlap) |
@@ -204,6 +205,7 @@ Happy Coding! 🚀
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [1386-cinema-seat-allocation](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -692,6 +694,7 @@ Happy Coding! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
 |  |
