@@ -689,6 +689,7 @@ Happy Coding! 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Range Minimum/Maximum Query
 |  |
@@ -725,6 +726,7 @@ Happy Coding! 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -752,6 +754,7 @@ Happy Coding! 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
