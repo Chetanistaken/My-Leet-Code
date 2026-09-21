@@ -154,6 +154,7 @@ Happy Coding! 🚀
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0130-surrounded-regions) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0835-image-overlap) |
@@ -637,6 +638,7 @@ Happy Coding! 🚀
 | [0074-search-a-2d-matrix](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0130-surrounded-regions) |
 | [0835-image-overlap](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0835-image-overlap) |
 ## Minimax
 |  |
@@ -693,6 +695,7 @@ Happy Coding! 🚀
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0130-surrounded-regions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Range Minimum/Maximum Query
 |  |
@@ -702,6 +705,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0130-surrounded-regions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chetanistaken/My-Leet-Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
 |  |
@@ -783,6 +787,7 @@ Happy Coding! 🚀
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0130-surrounded-regions) |
 ## Geometry
 |  |
 | ------- |
