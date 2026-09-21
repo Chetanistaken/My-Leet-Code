@@ -333,6 +333,7 @@ Happy Coding! 🚀
 | [0115-distinct-subsequences](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0940-distinct-subsequences-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chetanistaken/My-Leet-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -440,6 +441,7 @@ Happy Coding! 🚀
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0940-distinct-subsequences-ii) |
@@ -590,6 +592,7 @@ Happy Coding! 🚀
 | [0095-unique-binary-search-trees-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Chetanistaken/My-Leet-Code/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
